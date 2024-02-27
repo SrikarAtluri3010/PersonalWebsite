@@ -1,0 +1,165 @@
+@import url('https://fonts.cdnfonts.com/css/the-wild-breath-of-zelda');
+
+.introback{
+    background-image: url("https://images6.alphacoders.com/805/805656.jpg");
+}
+.x{
+    position:fixed;
+}
+.navbar{
+    padding : 10px;
+    backdrop-filter: blur(12px);
+}
+.cl12{
+  padding: -100px;  
+}
+a{
+    text-decoration: none;
+    padding:10px;
+    color: rgb(139, 114, 114);
+    font-size: 25px;
+    font-family: 'The Wild Breath of Zelda', sans-serif;
+}
+.cl12{
+    backdrop-filter: blur(4px);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.intro{
+    padding: 300px 400px 300px 400px;
+}
+h1{
+    text-align: center;
+    color: rgb(139, 114, 114);
+    font-family: 'The Wild Breath of Zelda', sans-serif;
+    font-size: 30px;
+                                                
+}
+.ptro{
+    text-align: center;
+    color: rgb(139, 114, 114);
+    font-family: 'The Wild Breath of Zelda', sans-serif;
+    font-size: 25px;
+}
+#About{
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+}
+.ppp{
+    font-family: 'Syste';
+    color: rgb(139, 114, 114);
+    text-align: center;
+    font-family: 'The Wild Breath of Zelda', sans-serif;
+    font-size: 30px;
+
+}
+.linkin{
+    margin-left: 200px;
+}
+
+.pabout{
+    color: rgb(139, 114, 114);
+    margin-left: 200px;
+    margin-right: 300px;
+    font-size: 16px;
+    line-height: 1.75;
+    font-family: 'The Wild Breath of Zelda', sans-serif;
+   
+}
+.idphoto{
+    margin-left: 100px;
+    border-radius: 25px;
+}
+.linkOf{
+    margin-top: -100px;
+    text-decoration: none;
+}
+#education{
+    background-color: rgb(237, 234, 229);
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.ed{
+    padding : 50px 0px 50px 550px
+}
+.edu{
+    font-family:'The Wild Breath of Zelda', sans-serif ;
+    text-align: center;
+    text-decoration: dashed;
+    text-decoration-color: rgb(139, 114, 114);
+    color: rgb(139, 114, 114);
+    font-size: 30px;
+
+}
+.ped{
+    font-family: 'The Wild Breath of Zelda', sans-serif;
+    text-align: center;
+    margin-left: 100px;
+    color: rgb(139, 114, 114);
+    font-size: 16px;
+
+}
+.exp{
+    font-family:'The Wild Breath of Zelda', sans-serif ;
+    margin-left: 500px;
+    color: rgb(139, 114, 114);
+}
+.explis{
+    font-family:'The Wild Breath of Zelda', sans-serif ;
+    color: rgb(139, 114, 114);
+    font-size: 16px;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.skills{
+    font-family:'The Wild Breath of Zelda', sans-serif ;
+    margin-left: 500px;
+    color: rgb(139, 114, 114);
+}
+.sk{
+    font-family:'The Wild Breath of Zelda', sans-serif ;
+    color: rgb(139, 114, 114);
+    margin-left: 200px;
+}
+.str{
+    padding-left: 10px;
+    color: rgb(139, 114, 114);
+
+}
+
+#contact{
+    background-color: rgb(43, 41, 39);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 5px;
+
+}
+.p123{
+    font-family:'The Wild Breath of Zelda', sans-serif ;
+    color: rgb(139, 114, 114);
+    text-align: center;
+    font-size: 30px;
+}
+.phone{
+    color: rgb(139, 114, 114);
+    font-family:'The Wild Breath of Zelda', sans-serif ;
+    margin-left: 100px;
+}
+.cont{
+    font-family:'The Wild Breath of Zelda', sans-serif ;
+    margin-left: 500px;
+    color: rgb(139, 114, 114);
+    font-size: 20px;
+}
+footer{
+    color: rgb(139, 114, 114);
+    font-size: 20px;
+    font-family:'The Wild Breath of Zelda', sans-serif ;
+    padding-left: 10px;
+}
+
+
+
+
+
